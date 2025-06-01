@@ -1,6 +1,6 @@
 # Hi there, I'm Sparth19 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sparth19&style=flat-square)
 
 ## 🚀 About Me
 I'm a passionate React Native developer with a knack for building dynamic and efficient mobile applications. I have a strong background in JavaScript and a deep love for open-source development. Let's build something amazing together!
